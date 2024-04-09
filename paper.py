@@ -85,7 +85,7 @@ def gerar_pdf():
     c.drawImage("icons8-visão-da-página-96.png", 50, 725, width=50, height=60)
     
     #Adcionando Nome e Informação da empresa
-    nome_empresa="Nome Empresa"
+    nome_empresa="BM"
     endereco_empresa="Brasil - Rio de Janeiro"
     
     c.setFont("Helvetica-Bold", 16)
